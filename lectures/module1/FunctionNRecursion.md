@@ -1,4 +1,4 @@
-# Part II: Functions and Recursion
+# Functions and Recursion
 *chapter 6, 17*
 
 # Textbook examples source code

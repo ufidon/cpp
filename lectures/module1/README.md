@@ -3,7 +3,7 @@ Covers chapter 1-11,17 from textbook [Introduction to Programming with C++ 3e](h
 
 **Table of contents**
 
-* [Part I: Introduction to C++ programming](./BasicProgramming.md)
+* [Introduction to C++ programming](./BasicProgramming.md)
 * [Functions and recursion](./FunctionNRecursion.md)
 * [Pointers and arrays](./PointerNArray.md)
 

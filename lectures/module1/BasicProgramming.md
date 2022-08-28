@@ -1,4 +1,4 @@
-# Part I: Introduction to C++ Programming
+# Introduction to C++ Programming
 *chapter 1-5*
 
 **Table of contents**

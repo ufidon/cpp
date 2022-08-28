@@ -1,4 +1,4 @@
-# Part III: Pointers and Arrays
+# Pointers and Arrays
 *chapter 7, 11.1-11.7*
 
 **Table of contents**
