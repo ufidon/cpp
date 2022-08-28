@@ -26,7 +26,9 @@
   * constant reference parameters
 * local, global and static local variables
 
-* [Demo and practice](http://liveexample.pearsoncmg.com/liang/cpp3e/ExampleByChapters.html)
+**Demo and practice**
+
+* [Textbook examples](http://liveexample.pearsoncmg.com/liang/cpp3e/ExampleByChapters.html)
 * [C++ Standard Library headers](https://en.cppreference.com/w/cpp/header)
 * [C Standard Library header files](https://en.cppreference.com/w/c/header)
 
@@ -45,7 +47,12 @@
   * Tail recursion
 * Recursion vs iteration
 
-* [Demo and practice](http://liveexample.pearsoncmg.com/liang/cpp3e/ExampleByChapters.html)
+**Demo and practice**
+
+* [Textbook examples](http://liveexample.pearsoncmg.com/liang/cpp3e/ExampleByChapters.html)
+
+
+
 
 # References
 * [Greatest common divisor](https://en.wikipedia.org/wiki/Greatest_common_divisor)
