@@ -43,8 +43,11 @@ Practice programming paradigms of C++ arrays:
 
 ## 4. What to submit
 1. Rename your lottery.cpp to be your FirstName_LastName_lottery.cpp
-2. A lab report with screenshots that show 
+2. A lab report with screenshots that show you completed all tasks
 ## 5. Rubrics
+
+1. Rubrics used: 80% for code, 20% for report.
+2. reference rubrics
 
 | Credits | Criteria |
 | ------- | -------- |
