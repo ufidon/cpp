@@ -28,6 +28,7 @@ Here, $s$ is the length of a side. Write a program that prompts the user to ente
 
 2. [Triangle](https://en.wikipedia.org/wiki/Triangle) guru: Create a C++ program to find the following information of a triangle given its three sides:
    1. Three internal angles in degree
+
    $$
    \begin{align*}
     \alpha &=\arccos \left({\frac {b^{2}+c^{2}-a^{2}}{2bc}}\right) \\
@@ -35,10 +36,13 @@ Here, $s$ is the length of a side. Write a program that prompts the user to ente
     \gamma &=\arccos \left({\frac {a^{2}+b^{2}-c^{2}}{2ab}}\right)
    \end{align*}
    $$
+
    2. Area
+
    $$
    A={\sqrt {s(s-a)(s-b)(s-c)}} \text{ where } s={\frac {1}{2}}(a+b+c)
    $$
+   
    3. Create a program from scratch
      1. Execute from Visual Studio
      2. Execute from Command Prompt
