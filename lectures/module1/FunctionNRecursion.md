@@ -39,7 +39,7 @@
 
 * Two popular examples
   * Factorials
-  * Fobonacci numbers
+  * Fibonacci numbers
 * Solving problems using recursion
   * Recursive helper functions
   * Towers of Hanoi
