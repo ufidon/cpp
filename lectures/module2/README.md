@@ -10,11 +10,23 @@ Covers chapter 1-11,17 from textbook [Introduction to Programming with C++ 3e](h
 ## Objects and classes
 *chapter 9*
 
+* Define classes for objects
+  * Constructor: construct objects
+  * Member accessor: use objects
+  * Separate class definition from implementation
+    * encapsulate data field
+    * the scope of variables
+    * inline functions in classes
+    * prevent multiple inclusions
+* Class abstraction and encapsulation
+
 ---
 ---
 
 ## Object-oriented thinking
 *chapter 10*
+
+
 
 ---
 ---

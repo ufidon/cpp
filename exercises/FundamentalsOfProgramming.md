@@ -13,20 +13,24 @@ A [regular polygon](https://en.wikipedia.org/wiki/Regular_polygon) is an $n$-sid
 
  $$ Area = \dfrac{n\times s^2}{4\times \tan(\frac{\pi}{n})} $$ 
 
+ the internal angle 
+
+ $$ A = (n-2)\times {\dfrac {\pi }{n}} $$
+
 Here, $s$ is the length of a side. Write a program that prompts the user to enter the number of sides and their length of a regular polygon and displays its area.
 1. Create a program from scratch
   1. Execute from Visual Studio
   2. Execute from Command Prompt
-2. Calculate the area
+2. Calculate the internal angle and area
 3. Add user input and output
   1. Prompt the user to enter $n$ and $s$, determine legal inputs
-  2. Print the area
+  2. Print the internal angle and area
 4. Support simple commands to calculate multiple regular polygons
 5. Print out the information of multiple polygons in a table, keep 4 digits after the decimal point
 
-| Polygon | n | s | Area |
-| ------- | --- | --- | ---- |
-| 1 | 3 | 4 | 6.9282 |
+| Polygon | n | s | A | Area |
+| ------- | --- | --- | --- | ---- |
+| 1 | 3 | 4 | 60.00 | 6.9282 |
 
 ## 2. [Triangle](https://en.wikipedia.org/wiki/Triangle) guru
 Create a C++ program to find the following information of a triangle given its three sides:
