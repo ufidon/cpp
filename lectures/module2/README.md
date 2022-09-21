@@ -26,6 +26,14 @@ Covers chapter 1-11,17 from textbook [Introduction to Programming with C++ 3e](h
 ## Object-oriented thinking
 *chapter 10*
 
+* The string class
+  * Passing objects to functions
+  * Array of objects
+* Object composition
+  * Instance and static members
+  * Constant member functions
+* Class design guidelines
+  * Thinking in objects
 
 
 ---
