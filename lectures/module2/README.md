@@ -39,5 +39,17 @@ Covers chapter 1-11,17 from textbook [Introduction to Programming with C++ 3e](h
 ---
 ---
 
+### Dynamic persistent memory allocation
+*chapter 11.9-11.15*
+
+* Creating and accessing dynamic objects
+  * This this pointer
+  * Destructors
+  * Copy constructors
+    * Customizing copy constructors
+
+---
+---
+
 ## Inheritance and polymorphism
 *chapter 15*
