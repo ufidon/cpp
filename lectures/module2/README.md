@@ -27,6 +27,7 @@ Covers chapter 1-11,17 from textbook [Introduction to Programming with C++ 3e](h
 *chapter 10*
 
 * The [string class](https://en.cppreference.com/w/cpp/string/basic_string)
+  * [sstream](https://en.cppreference.com/w/cpp/header/sstream)
   * Passing objects to functions
   * Array of objects
 * Object composition
@@ -53,3 +54,8 @@ Covers chapter 1-11,17 from textbook [Introduction to Programming with C++ 3e](h
 
 ## Inheritance and polymorphism
 *chapter 15*
+
+
+## References
+* [How to initialize a static const member in C++?](https://stackoverflow.com/questions/3531060/how-to-initialize-a-static-const-member-in-c)
+* [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language)

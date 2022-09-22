@@ -27,11 +27,14 @@ Practice programming paradigms of C++ arrays:
 5. write module code for a given program
 6. test user code and given framework code together
 
-## 3. Tasks
+## 3. Tasks 
+
 1. (10%) Play with the game, try each command. Take a screenshot of the output of each command your played.
    1. Copy test-records.txt and ref-results.txt to your project folder before you run this lottery game in Visual Studio
    2. Copy test-records.txt and ref-results.txt to the folder containing your lotter.exe before you run this lottery game in command prompt
 2. (80%, 20% for each) Complete the 4 TODOs in lottery.cpp
+   1. Take a screenshot of the implementation of each TODO
+   2. Explain your code
 3. (10%) Test your implementation using the t command
    1. Copy test-records.txt and ref-results.txt to the folder containing your lotter.exe before you run this lottery game in command prompt
    2. run the t command to test your implementation automatically and generate a test-results.txt
@@ -41,12 +44,21 @@ Practice programming paradigms of C++ arrays:
    ```
    If everything is right, there should be NO difference between these two files. 
 
+   ![No difference between the test results and the reference results](./figs/nodiff.png)
+
+**Note**
+
+* The report must record all the tasks below into section 2 "Steps of the process" of the provided lab report template
+* Each screenshot and table must have a caption, refer to [Insert a caption for a picture](https://support.microsoft.com/en-us/office/insert-a-caption-for-a-picture-bb74994c-7f8b-457c-be85-92233177a356)
+
 ## 4. What to submit
 1. Rename your lottery.cpp to be your FirstName_LastName_lottery.cpp
 2. A lab report with screenshots that show you completed all tasks
 ## 5. Rubrics
 
-1. Rubrics used: 80% for code, 20% for report.
+1. Rubrics used: check its detail on Canvas
+   1. 80% for code
+   2. 20% for report
 2. reference rubrics
 
 | Credits | Criteria |
