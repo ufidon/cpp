@@ -14,10 +14,12 @@ Covers chapter 11-14,16 from textbook [Introduction to Programming with C++ 3e](
 *chapter 11.9-11.15*
 
 * Creating and accessing dynamic objects
-  * This this pointer
+  * The this pointer
   * Destructors
+    * Customizing destructors
   * Copy constructors
     * Customizing copy constructors
+* Destroying or freeing dynamic objects
 
 ---
 ---
