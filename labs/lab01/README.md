@@ -31,7 +31,7 @@ Practice programming paradigms of C++ arrays:
 
 1. (10%) Play with the game, try each command. Take a screenshot of the output of each command your played.
    1. Copy test-records.txt and ref-results.txt to your project folder before you run this lottery game in Visual Studio
-   2. Copy test-records.txt and ref-results.txt to the folder containing your lotter.exe before you run this lottery game in command prompt
+   2. Copy test-records.txt and ref-results.txt to the folder containing your lottery.exe before you run this lottery game in command prompt
 2. (80%, 20% for each) Complete the 4 TODOs in lottery.cpp
    1. Take a screenshot of the implementation of each TODO
    2. Explain your code
