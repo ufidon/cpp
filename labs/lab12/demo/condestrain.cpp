@@ -60,6 +60,7 @@ public:
 
 void print(const Person &p)
 {
+  cout << "Printing ";
   p.toString();
 }
 
@@ -79,7 +80,10 @@ int main()
 
   cout << "print objects of subclasses:" << endl;
   faculty.toString();
+  print(faculty);
   employee.toString();
+  print(employee);
+  print(person);
   cout << endl;
 
   cout << "Start destructing all objects..." << endl;
