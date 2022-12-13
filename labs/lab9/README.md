@@ -81,13 +81,9 @@ between two points, friend extraction operator («) and friend insertion operato
 * A constant get function that returns the z value.
 * A constant distance(const MyPoint& p) function to return the distance between this point and the other point in the three-dimensional space using dynamic casting.
   * If a ThreeDPoint object p passed into the distance function, 
-    $$
-    distance = \sqrt{(x_1 − x_2)^2 + (y_1 − y_2)^2 + (z_1 − z_2)^2}
-    $$
+    $$distance = \sqrt{(x_1 − x_2)^2 + (y_1 − y_2)^2 + (z_1 − z_2)^2}$$
   * If a MyPoint object p passed into the distance function, 
-    $$
-    distance = \sqrt{(x_1 − x_2)^2 + (y_1 − y_2)^2 + (z_1 − 0)^2} 
-    $$
+    $$distance = \sqrt{(x_1 − x_2)^2 + (y_1 − y_2)^2 + (z_1 − 0)^2}$$
 i.e. create a ThreeDPoint object out of p by setting its z to be 0.
 
 Write a test program that prints as the sample output below.
