@@ -77,3 +77,7 @@ In this course, a Windows laptop is required, all needed software will be instal
   * [UMLet](https://www.umlet.com/)
   * [Umbrello - The UML Modeller](https://umbrello.kde.org/)
   * [UML Designer ](https://www.umldesigner.org/)
+
+Tips
+---
+- [解决clangd找不到iostream的错误](https://blog.csdn.net/weixin_61184943/article/details/131820087)
